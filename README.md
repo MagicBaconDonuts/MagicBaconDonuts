@@ -1,10 +1,14 @@
 ### <h2>Hey there, I'm Ricardo Alatorre, I'am a full Stack Java/React Developer 👋</h2>
 <h2>Working On 🔭</h2>
 <ul>
-  <li>My personal website to showcase my portfolio</li>
+  <li>My personal website to showcase my portfolio using React</li>
   <li>Crwn-Clothing Udemy course to enchance my React skills</li>
 </ul>
 <br>
+<h2>Future Plans</h2>
+<ul>
+  <li>Creating a full stack java app that uses react as the front end</li>
+</ul>
 <h2>Languages</h2>
 <ul>
   <li>Java</li>
