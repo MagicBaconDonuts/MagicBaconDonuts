@@ -8,6 +8,7 @@
 <h2>Future Plans</h2>
 <ul>
   <li>Creating a full stack java app that uses react as the front end</li>
+  <li>Work on a collab with someone using React</li>
 </ul>
 </br>
 <h2>Completed Projects</h2>
