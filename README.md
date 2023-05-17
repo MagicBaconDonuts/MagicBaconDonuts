@@ -1,4 +1,5 @@
-### <h2>Hey there, I'm Ricardo Alatorre, I'am a full Stack Java/React Developer 👋</h2>
+### <h2>Hey there, I'm Ricardo Alatorre, I'am a full Stack Java/React Developer I staretd my journey over 2 years ago and im loving every second of it. I have gotten to meet many people in this
+  industry and I cant wait to meet more👋</h2>
 <h2>Working On 🔭</h2>
 <ul>
   <li>My personal website to showcase my portfolio using React</li>
@@ -8,6 +9,12 @@
 <h2>Future Plans</h2>
 <ul>
   <li>Creating a full stack java app that uses react as the front end</li>
+</ul>
+</br>
+<h2>Completed Projects</h2>
+<ul>
+  <li>Full Stack app using Java and MySQL on a page for a person to review any games they have played</li>
+  <li>A Chat system using java and javascript to run on your local machine</li>
 </ul>
 <h2>Languages</h2>
 <ul>
