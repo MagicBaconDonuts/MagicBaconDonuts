@@ -1,4 +1,4 @@
-<h2>Hey there, I'm Ricardo Alatorre, I'am a full Stack Java/React Developer I staretd my journey over 2 years ago and im loving every second of it. I have gotten to meet many people in thisindustry and I cant wait to meet more👋</h2>
+<h2>Hey there, I'm Ricardo Alatorre, I'am a full Stack Java/React Developer I started my journey over 2 years ago and im loving every second of it. I have gotten to meet many people in this industry and I cant wait to meet more👋</h2>
 <h2>Working On 🔭</h2>
 <ul>
   <li>My personal website to showcase my portfolio using React</li>
